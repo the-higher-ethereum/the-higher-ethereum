@@ -41,6 +41,16 @@ List:
 - ?
 
 
+## The Higher Ethereum 4
+
+The requirements to be on this list:
+- volunteers with less than 20h/week, less than 1 year, who did not apply to any grants offered by the Ethereum Foundation or any other entity from the Ethereum space and do not have in plan to apply
+
+List:
+
+- ?
+
+
 
 ## Contribute
 
