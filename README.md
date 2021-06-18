@@ -39,3 +39,9 @@ The requirements to be on this list:
 List:
 
 - ?
+
+
+
+## Contribute
+
+If you know a person/project worthy to be on these lists, add them in a PR.
