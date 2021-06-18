@@ -8,8 +8,7 @@ People and projects developing on a volunteer basis for the benefit of Ethereum 
 
 
 The common requirements to be on this list:
-- projects must be ongoing, with at least 20h/week of effort being performed
-
+- projects must be ongoing, with at least 20h/week of effort being performed, at least 1 year of existence
 
 ## The Higher Ethereum 1
 
