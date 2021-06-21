@@ -3,8 +3,11 @@ People and projects developing on a volunteer basis for the benefit of Ethereum 
 
 - projects are alphabetically sorted in each category
 - entries must contain:
-  - projects: project name and source code link
-  - people: developer profile (e.g. Github profile), link to a list of all the volunteer work done for Ethereum.
+1. projects: project name and source code link
+2. people: developer profile (e.g. Github profile)
+3. link to a list of all the volunteer work done for Ethereum
+4. all: number of hours per week and period of time
+5. income disclosure, ending with "I have no other sources of income aside from those listed" (included in the list from 3)
 
 
 The common requirements to be on this list:
@@ -28,7 +31,7 @@ The requirements to be on this list:
 
 List:
 
-- https://github.com/loredanacirstea, https://github.com/loredanacirstea/CV/blob/master/Ethereum.md
+- https://github.com/loredanacirstea, https://github.com/loredanacirstea/CV/blob/master/Ethereum.md, min 20h/week volunteer Aug 5, 2018 - February 1st 2019, > 80h/week volunteer since February 1st 2019 - present.
 
 
 ## The Higher Ethereum 3
