@@ -32,6 +32,7 @@ The requirements to be on this list:
 List:
 
 - https://github.com/loredanacirstea, https://github.com/loredanacirstea/CV/blob/master/Ethereum.md, min 20h/week volunteer Aug 5, 2018 - February 1st 2019, > 80h/week volunteer since February 1st 2019 - present.
+- https://github.com/ctzurcanu, https://github.com/ctzurcanu/about, min 24h/week volunteer May, 2018 - present.
 
 
 ## The Higher Ethereum 3
